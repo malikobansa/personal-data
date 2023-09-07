@@ -17,3 +17,12 @@ body{
     border-radius: 50%;
     border:2px solid #4876ad;
 }
+
+@media (max-width: 600px) {
+    .container{
+        width: 300px;
+        height: 300px;
+        text-align: center;
+        margin-left: 70px;
+    }
+  }
